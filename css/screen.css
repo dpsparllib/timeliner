@@ -10,10 +10,12 @@ body {
 }
 
 .container {
-	width:940px;
-	margin-left:auto;
-	margin-right:auto;
-	padding:10px;
+	width: 982px;
+	margin: 0 auto;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
 	*zoom:1;
 }
 
@@ -73,8 +75,17 @@ p {
 
 .timelineContainer {
 	border-left:2px solid #ccc;
-	margin:20px auto;
-	width:900px;
+	width: 978px;
+	margin: 0 1px;
+	margin-top: 0px;
+	margin-right: 1px;
+	margin-bottom: 0px;
+	margin-left: 1px;
+	padding: 0 0 15px 0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
 }
 
 div.timelineToggle {
