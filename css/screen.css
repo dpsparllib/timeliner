@@ -196,6 +196,14 @@ dl.timelineMinor {
 	float:left;
 	line-height:1.5em;
 	margin:6px 0 10px;
+	width:870px;
+}
+
+.timelineEvent pn {
+	clear:left;
+	float:left;
+	line-height:1.5em;
+	margin:6px 0 10px;
 	width:570px;
 }
 
